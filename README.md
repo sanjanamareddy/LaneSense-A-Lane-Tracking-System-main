@@ -41,7 +41,7 @@ For running the code, make sure that the following are installed on your local d
 # How to use
 1. Clone this repo. <br>
 -  ```terminal
-   git clone https://github.com/karthikeyakondabathula/LaneSense
+   git clone https://github.com/sanjanamareddy/LaneSense-A-Lane-Tracking-System-main
    ```
 
 2. Install the required libraries from [Requirements](#requirements) <br>
