@@ -1,0 +1,6 @@
+tkinter
+matplotlib==3.8.2
+numpy==1.23.5
+opencv_python==4.7.0.72
+Pillow==9.5.0
+seaborn==0.13.1
